@@ -1,0 +1,9 @@
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Release\MedicalStoreManagementSystem.exe.config
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Release\MedicalStoreManagementSystem.exe
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Release\MedicalStoreManagementSystem.pdb
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.AdminOption.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.LoginForm.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.Properties.Resources.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.csproj.GenerateResource.Cache
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.exe
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Release\MedicalStoreManagementSystem.pdb

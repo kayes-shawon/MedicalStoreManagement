@@ -1,0 +1,17 @@
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Debug\MedicalStoreManagementSystem.exe.config
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Debug\MedicalStoreManagementSystem.exe
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\bin\Debug\MedicalStoreManagementSystem.pdb
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.csprojResolveAssemblyReference.cache
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.AdminOption.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.LoginForm.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.Properties.Resources.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.csproj.GenerateResource.Cache
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.exe
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.pdb
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.DealerManagementUI.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.MedicineManagementUI.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.Practise.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.DealerReportUI.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\MedicalStoreManagementSystem.ReportOption.resources
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\RdlCompile.cache
+E:\My C# Project\MedicalStoreManagementSystem\MedicalStoreManagementSystem\obj\Debug\RdlCompile.compiled
